@@ -14,6 +14,7 @@ print()
 
 d= np.arange(24).reshape(2,3,4)
 print("d is: ",d)
+print(d.ndim, d.shape, d.size, d.itemsize)
 print()
 
 s= np.arange(10000)

@@ -4,3 +4,4 @@ print(b)
 print(b.shape)
 
 print(b.ndim)
+print(b.size)
